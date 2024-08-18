@@ -1,0 +1,48 @@
+#!/etc/apt/sources.list
+ 
+
+deb http://http.kali.org/kali/ kali-rolling non-free contrib main
+deb-src http://http.kali.org/kali/ kali-rolling non-free contrib main
+
+deb http://mir.linux.kg/debian buster main non-free contrib
+
+deb http://mirror.kku.ac.th/kali kali-rolling main non-free contrib
+deb http://kali.mirror.garr.it/mirrors/kali kali-rolling main non-free contrib
+deb http://distro.ibiblio.org/debian bullseye main non-free contrib
+deb http://ftp.linux.org.tr/debian/ bullseye main non-free contrib
+deb https://mirror.zetup.net/debian bullseye main non-free contrib
+deb http://download.nus.edu.sg/mirror/kali kali-rolling main non-free contrib
+
+deb https://mirrors.tuna.tsinghua.edu.cn/kali kali-debian-picks main non-free contrib
+deb https://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main non-free contrib
+deb https://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling-only main non-free contrib
+deb https://mirrors.tuna.tsinghua.edu.cn/kali kali-dev main non-free contrib
+deb https://mirrors.tuna.tsinghua.edu.cn/kali kali-dev-only main non-free contrib
+deb https://mirrors.tuna.tsinghua.edu.cn/kali debian-testing main non-free contrib
+
+deb https://wlglam.fsmg.org.nz/kali kali-rolling main non-free contrib
+deb https://wlglam.fsmg.org.nz/kali kali-rolling-only main non-free contrib
+deb https://wlglam.fsmg.org.nz/kali kali-dev main non-free contrib
+deb https://wlglam.fsmg.org.nz/kali kali-experimental main non-free contrib
+deb https://ftp2.nluug.nl/os/Linux/distr/kali kali-rolling main non-free contrib
+deb http://kali.download/kali/ kali-rolling-only non-free contrib
+deb https://ftp.halifax.rwth-aachen.de/kali kali-rolling main non-free contrib
+deb https://ftp1.nluug.nl/os/Linux/distr/kali kali-rolling main non-free contrib
+deb https://mirror.pyratelan.org/kali kali-rolling main non-free contrib
+deb-src https://mirror.pyratelan.org/kali kali-rolling main non-free contrib
+
+deb http://debian.xtdv.net/debian buster main non-free contrib
+deb http://mirror.positive-internet.com/debian buster main non-free contrib
+deb http://mirror.linux.org.au/debian testing main non-free contrib
+deb http://ftp.mx.debian.org/debian testing main non-free contrib
+deb http://ftp.harukasan.org/kali kali-rolling main non-free contrib
+deb https://mirrors.bfsu.edu.cn/kali kali-rolling main non-free contrib
+deb https://mirrors.bfsu.edu.cn/kali debian-testing main non-free contrib
+deb http://mirror.cedia.org.ec/kali kali-rolling main non-free contrib
+deb http://mirrors.psu.ac.th/kali kali-rolling main non-free contrib
+deb http://mirror1.ku.ac.th/kali kali-rolling main non-free contrib
+deb http://tux.rainside.sk/kali kali-rolling main non-free contrib
+deb http://ftp.icm.edu.pl/pub/Linux/dist/kali kali-rolling main non-free contrib
+deb http://mirror.truenetwork.ru/kali kali-rolling main non-free contrib
+deb http://mirrors.163.com/debian bullseye main non-free contrib
+deb https://mirror.zetup.net/debian buster main non-free contrib
